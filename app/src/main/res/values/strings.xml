@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaceWisdomTestApp</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="choose_camera_gallery">Select Image from: </string>
+    <string-array name="camera_gallery_array">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
+</resources>
